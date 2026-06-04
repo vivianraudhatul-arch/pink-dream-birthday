@@ -1,7 +1,7 @@
 'use client'
 
 import { motion } from 'framer-motion'
-import { fadeUpVariants, staggerContainerVariants, staggerItemVariants, floatingVariants } from '@/lib/animations'
+import { fadeUpVariants, staggerContainerVariants, floatingVariants } from '@/lib/animations'
 import { BirthdayData } from '@/lib/types'
 
 interface HeroProps {

@@ -57,7 +57,7 @@ export function Slideshow({ data }: SlideshowProps) {
           className="text-center"
         >
           <h2 className="text-4xl md:text-5xl font-bold font-dancing text-pink-600 mb-4">
-            Memory Slideshow 🎬
+            Memory Slideshow 📽️
           </h2>
           <p className="text-gray-500 text-lg mt-8">Upload photos to see the slideshow</p>
         </motion.div>
@@ -78,7 +78,7 @@ export function Slideshow({ data }: SlideshowProps) {
       >
         <motion.div variants={staggerItemVariants} className="text-center mb-12">
           <h2 className="text-4xl md:text-5xl font-bold font-dancing text-pink-600 mb-4">
-            Memory Slideshow 🎬
+            Memory Slideshow 📽️
           </h2>
           <p className="text-gray-600 text-lg">Relive your beautiful moments</p>
         </motion.div>
